@@ -10,12 +10,11 @@ The solutions in this repo demonstrates problem-solving techniques and algorithm
 
 ## Table of Contents
 
-## Challenges
-
-| S.No. | Challenge Description       | Challenge Folder Link                |
-| ----- | --------------------------- | ------------------------------------ |
-| 1     | Sorting Method: QuickSort   | [Challenge 1: QuickSort](challenge1) |
-| ...   | More Challenges Coming Soon | To Be Added                          |
+| S.No. | Challenge Description       | Challenge Folder Link                  |
+| ----- | --------------------------- | -------------------------------------- | --- |
+| 1     | Hello World Program         | [Challenge 1: Hello World](challenge1) |
+| 2     | Sorting List: QuickSort     | [Challenge 2: Sorting](challenge2)     |
+| ...   | More Challenges Coming Soon | To Be Added                            |     |
 
 _Note: As each new challenge is completed, it will be added to this table along with links to its folder and README._
 
