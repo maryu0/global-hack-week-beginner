@@ -10,11 +10,13 @@ The solutions in this repo demonstrates problem-solving techniques and algorithm
 
 ## Table of Contents
 
-| S.No. | Challenge Description       | Challenge Folder Link                  |
-| ----- | --------------------------- | -------------------------------------- | --- |
-| 1     | Hello World Program         | [Challenge 1: Hello World](challenge1) |
-| 2     | Sorting List: QuickSort     | [Challenge 2: Sorting](challenge2)     |
-| ...   | More Challenges Coming Soon | To Be Added                            |     |
+## Challenges
+
+| S.No. | Challenge Description       | Challenge Folder Link                 |
+| ----- | --------------------------- | ------------------------------------- |
+| 1     | Hello World                 | [Challenge 1: helloWorld](challenge1) |
+| 2     | Sorting                     | [Challenge 2: sortList](challenge2)   |
+| ...   | More Challenges Coming Soon | To Be Added                           |
 
 _Note: As each new challenge is completed, it will be added to this table along with links to its folder and README._
 
@@ -26,4 +28,5 @@ To get started, clone this repo to your local machine using the following comman
 
 ```bash
 git clone https://github.com/NikithaMatta/GlobalHackWeek-Beginners.git
+
 ```
