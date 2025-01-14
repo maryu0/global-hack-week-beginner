@@ -57,9 +57,15 @@ If you'd like to contribute:
 
 1. Fork the repo
 2. Create a feature branch:
-   **git commit -b feature-branch-name**
+   ```bash
+   git commit -b feature-branch-name
+   ```
 3. Commit your changes:
-   **git commit -m "Your commit message"**
+   ```bash
+   git commit -m "Your commit message"
+   ```
 4. Push your branch:
-   **git push origin feature-branch-name**
+   ```bash
+   git push origin feature-branch-name
+   ```
 5. Create a pull request
