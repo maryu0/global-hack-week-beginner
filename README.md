@@ -12,12 +12,13 @@ The solutions in this repo demonstrates problem-solving techniques and algorithm
 
 ## Challenges
 
-| S.No. | Challenge Description       | Challenge Folder Link                 |
-| ----- | --------------------------- | ------------------------------------- |
-| 1     | Hello World                 | [Challenge 1: helloWorld](challenge1) |
-| 2     | Sorting                     | [Challenge 2: sortList](challenge2)   |
-| 3     | Rock Paper Scissors Game    | [Challenge 3: Game](challenge3)       |
-| ...   | More Challenges Coming Soon | To Be Added                           |
+| S.No. | Challenge Description       | Challenge Folder Link                    |
+| ----- | --------------------------- | ---------------------------------------- |
+| 1     | Hello World                 | [Challenge 1: helloWorld](challenge1)    |
+| 2     | Sorting                     | [Challenge 2: sortList](challenge2)      |
+| 3     | Rock Paper Scissors Game    | [Challenge 3: Game](challenge3)          |
+| 4     | Random Number Generator     | [Challenge 4: Random Number](challenge4) |
+| ...   | More Challenges Coming Soon | To Be Added                              |
 
 _Note: As each new challenge is completed, it will be added to this table along with links to its folder and README._
 
