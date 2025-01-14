@@ -30,7 +30,7 @@ _Note: As each new challenge is completed, it will be added to this table along 
 To get started, clone this repo to your local machine using the following command:
 
 ```bash
-git clone https://github.com/NikithaMatta/GlobalHackWeek-Beginners.git
+git clone https://github.com/maryu0/global-hack-week-beginner.git
 
 ```
 
