@@ -33,3 +33,33 @@ To get started, clone this repo to your local machine using the following comman
 git clone https://github.com/NikithaMatta/GlobalHackWeek-Beginners.git
 
 ```
+
+### 2. Navigate to the Challenge Folder
+
+Navigate to the specific challenge folder you want to explore. For eg: cd Global-Hack-Week-Beginners/challengeX
+
+### 3. View the Code and README
+
+Inside each challenge folder, you will find:
+
+- A README.md file describing:
+  - The problem statement.
+  - The approach used to solve it.
+  - Instructions on how to run the code.
+
+### 4. Run the Code
+
+To run the solution, use the appropriate command based on the programming language.
+
+## Contributing
+
+If you'd like to contribute:
+
+1. Fork the repo
+2. Create a feature branch:
+   **git commit -b feature-branch-name**
+3. Commit your changes:
+   **git commit -m "Your commit message"**
+4. Push your branch:
+   **git push origin feature-branch-name**
+5. Create a pull request
